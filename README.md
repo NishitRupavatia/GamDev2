@@ -12,7 +12,7 @@ This game is developed for the purpose of GDSC inductions. It was developed usin
 
 
 
-##Demo
+## Demo
 
 
 ## 🚀 About Me
