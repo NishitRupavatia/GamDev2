@@ -10,7 +10,9 @@ This game is developed for the purpose of GDSC inductions. It was developed usin
 
 ![Screenshot 2024-02-11 183822](https://github.com/NishitRupavatia/GamDev2/assets/142668859/bdd5d237-c03e-4185-b81a-96b6c4502043)
 
-##GIFs
+
+
+##Demo
 
 
 ## 🚀 About Me
