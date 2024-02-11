@@ -3,9 +3,12 @@
 
 This game is developed for the purpose of GDSC inductions. It was developed using Unity engine. The coding has been done in C# language. 
 
+## Screenshots
+
 
 ## 🚀 About Me
 I'm a first year Btech student in electrical engineering department.
+
 
 
 ## Authors
